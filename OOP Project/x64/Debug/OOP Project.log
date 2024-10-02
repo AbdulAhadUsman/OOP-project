@@ -1,0 +1,32 @@
+﻿  Source.cpp
+  Source1.cpp
+D:\OOP Project\OOP Project\Source1.cpp(165,29): error C2061: syntax error: identifier 'Upload'
+D:\OOP Project\OOP Project\Source1.cpp(176,8): error C2143: syntax error: missing ';' before '*'
+D:\OOP Project\OOP Project\Source1.cpp(176,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OOP Project\OOP Project\Source1.cpp(176,19): error C2238: unexpected token(s) preceding ';'
+D:\OOP Project\OOP Project\Source1.cpp(186,21): error C2061: syntax error: identifier 'Upload'
+D:\OOP Project\OOP Project\Source1.cpp(188,3): error C2065: 'timeline': undeclared identifier
+D:\OOP Project\OOP Project\Source1.cpp(188,26): error C2065: 'ptr': undeclared identifier
+D:\OOP Project\OOP Project\Source1.cpp(198,2): error C2065: 'timeline': undeclared identifier
+D:\OOP Project\OOP Project\Source1.cpp(198,17): error C2061: syntax error: identifier 'Upload'
+D:\OOP Project\OOP Project\Source1.cpp(238,8): error C2143: syntax error: missing ';' before '*'
+D:\OOP Project\OOP Project\Source1.cpp(238,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OOP Project\OOP Project\Source1.cpp(238,19): error C2238: unexpected token(s) preceding ';'
+D:\OOP Project\OOP Project\Source1.cpp(254,21): error C2061: syntax error: identifier 'Upload'
+D:\OOP Project\OOP Project\Source1.cpp(256,3): error C2065: 'timeline': undeclared identifier
+D:\OOP Project\OOP Project\Source1.cpp(256,26): error C2065: 'ptr': undeclared identifier
+D:\OOP Project\OOP Project\Source1.cpp(268,2): error C2065: 'timeline': undeclared identifier
+D:\OOP Project\OOP Project\Source1.cpp(268,17): error C2061: syntax error: identifier 'Upload'
+D:\OOP Project\OOP Project\Source1.cpp(349,10): error C2143: syntax error: missing ';' before '*'
+D:\OOP Project\OOP Project\Source1.cpp(349,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OOP Project\OOP Project\Source1.cpp(349,21): error C2238: unexpected token(s) preceding ';'
+D:\OOP Project\OOP Project\Source1.cpp(360,18): error C2061: syntax error: identifier 'Comments'
+D:\OOP Project\OOP Project\Source1.cpp(362,3): error C2065: 'comments': undeclared identifier
+D:\OOP Project\OOP Project\Source1.cpp(362,29): error C2065: 'ptr': undeclared identifier
+D:\OOP Project\OOP Project\Source1.cpp(374,2): error C2065: 'comments': undeclared identifier
+D:\OOP Project\OOP Project\Source1.cpp(374,17): error C2061: syntax error: identifier 'Comments'
+D:\OOP Project\OOP Project\Source1.cpp(518,31): error C2660: 'Upload::AddComment': function does not take 1 arguments
+D:\OOP Project\OOP Project\Source1.cpp(360,7): message : see declaration of 'Upload::AddComment'
+D:\OOP Project\OOP Project\Source1.cpp(550,37): error C2660: 'Control::AddToTimeline': function does not take 1 arguments
+D:\OOP Project\OOP Project\Source1.cpp(165,15): message : see declaration of 'Control::AddToTimeline'
+  Generating Code...
